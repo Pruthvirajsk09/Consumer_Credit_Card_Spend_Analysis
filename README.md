@@ -1,5 +1,9 @@
 # Consumer Credit Card Spend Analysis
 
+## Database and Tools
+- PostgreSQL
+- pgAdmin 4
+
 ## Questions Answered
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
 
