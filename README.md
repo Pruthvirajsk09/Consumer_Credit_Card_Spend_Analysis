@@ -1,4 +1,4 @@
-# Consumer_Credit_Card_Spend_Analysis
+# Consumer Credit Card Spend Analysis
 
 ## Questions Answered
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
