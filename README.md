@@ -1,5 +1,8 @@
 # Consumer Credit Card Spend Analysis
 
+## Description
+This project uses SQL to analyze Consumer Credit Card usage data. The goal of the project is to answer a set of questions about credit card usage and consumer spending habits.
+
 ## Database and Tools
 - PostgreSQL
 - pgAdmin 4
